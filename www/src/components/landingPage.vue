@@ -1,6 +1,8 @@
 <template>
   <div>
     <h1>SchneiderWebDev Coming Soon!</h1>
+    <h2>I am going to build this:)</h2>
+    
   </div>
 </template>
 
